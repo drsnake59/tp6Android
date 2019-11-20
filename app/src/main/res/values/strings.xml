@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoDELAETER</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="enterText">Enter text</string>
+    <string name="cancel">cancel</string>
+    <string name="validate">validate</string>
+</resources>
